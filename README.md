@@ -1,16 +1,6 @@
-# da_bussy
+Flutter mobile login Screen
 
-A new Flutter project.
+![Screenshot_1678450833](https://github.com/Ahmadxxxxxx/flutter-login-screen/assets/93947902/a7178200-a4ea-4344-9498-963584c7069c)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
